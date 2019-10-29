@@ -1,10 +1,16 @@
 {
-  "employees": [
-    {
-      "name": "Peter Parker",
-      "department": "photo",
-      "salary": 6000,
-      "id": 1
-    }
-  ]
+    "employees": [
+        {
+            "name": "Peter Parker",
+            "department": "photo",
+            "salary": 6000,
+            "id": 1
+        },
+        {
+            "name": "Harry Potter",
+            "department": "wizard",
+            "salary": 10000,
+            "id": 2
+        }
+    ]
 }
