@@ -41,5 +41,9 @@ export class UI {
         </tr > 
         `;
     }
+
+    deleteEmployeefromUI(element) {
+        element.remove();
+    }
 };
 
