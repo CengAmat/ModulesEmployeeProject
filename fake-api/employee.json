@@ -1,0 +1,16 @@
+{
+    "employees": [
+        {
+            "name": "Ahmet Zurnaci",
+            "department": "Technology",
+            "salary": 5000,
+            "id": 1
+        },
+        {
+            "name": "Harry Potter",
+            "department": "Wizard",
+            "salary": 5000,
+            "id": 2
+        }
+    ]
+}
