@@ -1,16 +1,22 @@
 {
-    "employees": [
-        {
-            "name": "Peter Parker",
-            "department": "photo",
-            "salary": 6000,
-            "id": 1
-        },
-        {
-            "name": "Harry Potter",
-            "department": "wizard",
-            "salary": 10000,
-            "id": 2
-        }
-    ]
+  "employees": [
+    {
+      "name": "Peter Parker",
+      "department": "photo",
+      "salary": 6000,
+      "id": 1
+    },
+    {
+      "name": "Harry Potter",
+      "department": "wizard",
+      "salary": 10000,
+      "id": 2
+    },
+    {
+      "name": "Ahmet Zurnaci",
+      "department": "Computer",
+      "salary": 15000,
+      "id": 3
+    }
+  ]
 }
